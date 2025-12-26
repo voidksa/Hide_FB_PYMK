@@ -1,22 +1,29 @@
-# Hide 'People You May Know'
+<div align="center">
+  <img src="images/icon.png" alt="Logo" width="100" height="100">
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](../../releases/latest)
+  # Hide 'People You May Know'
 
-[**عربي**](README_AR.md) | [**English**](README.md)
+  [![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](../../releases/latest)
 
-A simple browser extension to hide the "People You May Know" section on Facebook.
+  A simple browser extension to hide the "People You May Know" section on Facebook.
+
+  [**عربي**](README_AR.md) | [**English**](README.md)
+</div>
+
+---
+
+## Features
+
+- **Cleaner Feed:** Automatically hides "People You May Know" sections from your Feed and Profile.
+- **Bilingual:** Supports both English and Arabic Facebook interfaces.
+- **Lightweight:** Efficient script that doesn't slow down your browsing.
+- **No Layout Shift:** Intelligently removes containers to prevent empty spaces.
 
 ## Screenshots
 
 | Before | After |
 |:---:|:---:|
 | ![Before](images/before.png) | ![After](images/after.png) |
-
-## Features
-
-- Automatically hides "People You May Know" sections from your Feed and Profile.
-- Supports both English and Arabic Facebook interfaces.
-- Lightweight and efficient.
 
 ## Installation
 
@@ -30,8 +37,4 @@ A simple browser extension to hide the "People You May Know" section on Facebook
 
 ## How it Works
 
-The extension looks for headers containing:
-- "People You May Know"
-- "أشخاص قد تعرفهم"
-
-When found, it hides the entire container card. It uses a `MutationObserver` to handle new content loaded while scrolling.
+The extension looks for headers containing "People You May Know" or "أشخاص قد تعرفهم". When found, it hides the entire container card. It uses a `MutationObserver` to handle new content loaded while scrolling, ensuring the section stays hidden even as you browse.
