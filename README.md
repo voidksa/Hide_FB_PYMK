@@ -1,5 +1,7 @@
 # Hide 'People You May Know'
 
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](../../releases/latest)
+
 [**عربي**](README_AR.md) | [**English**](README.md)
 
 A simple browser extension to hide the "People You May Know" section on Facebook.
@@ -19,11 +21,12 @@ A simple browser extension to hide the "People You May Know" section on Facebook
 ## Installation
 
 ### For Chrome / Edge / Brave (Chromium Browsers)
-1. Download the code or clone this repository.
-2. Open your browser and go to `chrome://extensions`.
-3. Enable **Developer mode** in the top right corner.
-4. Click **Load unpacked**.
-5. Select the folder containing these files.
+1. **Download the latest ZIP file** from the [Releases](../../releases/latest) page.
+2. **Extract** the ZIP file to a folder on your computer.
+3. Open your browser and go to `chrome://extensions`.
+4. Enable **Developer mode** in the top right corner.
+5. Click **Load unpacked**.
+6. Select the folder you extracted (containing `manifest.json`).
 
 ## How it Works
 
