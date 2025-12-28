@@ -3,7 +3,7 @@
 
   # إخفاء "أشخاص قد تعرفهم" (Hide 'People You May Know')
 
-  [![تنزيل أحدث إصدار](https://img.shields.io/badge/تحميل-أحدث_إصدار-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](../../releases/latest)
+  [![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](../../releases/latest)
 
   إضافة بسيطة للمتصفح لإخفاء قسم "أشخاص قد تعرفهم" (People You May Know) في فيسبوك.
 
