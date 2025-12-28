@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Hide 'People You May Know' on Facebook",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Hides 'People You May Know' section from your Facebook Feed and Profile.",
     "icons": {
         "48": "images/icon.png",
