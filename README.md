@@ -37,4 +37,4 @@
 
 ## How it Works
 
-The extension looks for headers containing "People You May Know" or "أشخاص قد تعرفهم". When found, it hides the entire container card. It uses a `MutationObserver` to handle new content loaded while scrolling, ensuring the section stays hidden even as you browse.
+The extension looks for headers containing "People You May Know". When found, it hides the entire container card. It uses a `MutationObserver` to handle new content loaded while scrolling, ensuring the section stays hidden even as you browse.
