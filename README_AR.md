@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/icon.png" alt="Logo" width="100" height="100">
 
-  # إخفاء "أشخاص قد تعرفهم" (Hide 'People You May Know')
+  # إخفاء 'أشخاص قد تعرفهم'
 
   [![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](../../releases/latest)
 
